@@ -10,7 +10,7 @@ https://leave-management-system168.herokuapp.com
 HLD/LLD/Architecture/Wireframe/DPR - 
 https://github.com/Billa-Mounika/leave-management-appln-pythonproject/tree/main/Documents
 
-# Technical Details 
+# Technology Stack
 ● Python3.7 is used as programming language.
 
 ● Flask2.0 is used as backend development.
